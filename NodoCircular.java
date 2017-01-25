@@ -1,3 +1,4 @@
+package Copia;
 
 public class NodoCircular {
 
@@ -31,8 +32,7 @@ public class NodoCircular {
 		this.anterior = anterior;
 	}
 
-
-
-
+　
+　
+　
 }
-
